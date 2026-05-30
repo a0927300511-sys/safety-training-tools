@@ -17,6 +17,12 @@
 - 🐙 GitHub repo：`a0927300511-sys/safety-training-tools`（公開，網頁的家）
 - 📘 Obsidian 駕駛艙：`secondbrain/safety-training-tools/工作筆記.md`（想法的家）
 
+## Obsidian 關聯資料
+- Obsidian vault：`G:\我的雲端硬碟\secondbrain`
+- 每日筆記：`07_每日筆記/<日期>.md`
+- 創作庫：`創作庫/`
+- 知識庫：`01_專業知識庫/`
+
 ## 工具清單
 （之後加新工具時會自動更新）
 - （尚無）
